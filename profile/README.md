@@ -24,9 +24,9 @@ The goal of the [challenge](https://challenge.ey.com/challenges/tropical-cyclone
 <body>
     <table border="1">
         <tr>
-            <th>Header 1</th>
-            <th>Header 2</th>
-            <th>Header 3</th>
+            <th>Rank #</th>
+            <th>Team</th>
+            <th>Private Score</th>
         </tr>
         <tr>
             <td>Row 1, Cell 1</td>
