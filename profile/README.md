@@ -11,12 +11,12 @@ This [competition](https://www.kaggle.com/competitions/building-extraction-gener
 - To improve the label-efficiency, we proposed using segmentation-guided diffusion as our diffusion augmentation pipeline to create synthetic dataset for the YOLOv8 training, without relying extra dataset.
 - Our solution ranked 1st out of all participating teams! 🏅
 
+## Top 5 Standings
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Final Standings
 </head>
 <body>
     <table border="1">
