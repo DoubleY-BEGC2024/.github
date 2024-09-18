@@ -13,3 +13,51 @@ The goal of the [challenge](https://challenge.ey.com/challenges/tropical-cyclone
 - We are among the Top 10 Global Semi-Finalist of **EY Open Science Data Challenge 2024** 🎉🥳 </br>
 - We ranked 8th globally out of a total of 11,000 registrants 🌍🏆 </br>
 - We ranked 1st out of all participating teams! 🏅
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>6x3 Table</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+            <th>Header 3</th>
+        </tr>
+        <tr>
+            <td>Row 1, Cell 1</td>
+            <td>Row 1, Cell 2</td>
+            <td>Row 1, Cell 3</td>
+        </tr>
+        <tr>
+            <td>Row 2, Cell 1</td>
+            <td>Row 2, Cell 2</td>
+            <td>Row 2, Cell 3</td>
+        </tr>
+        <tr>
+            <td>Row 3, Cell 1</td>
+            <td>Row 3, Cell 2</td>
+            <td>Row 3, Cell 3</td>
+        </tr>
+        <tr>
+            <td>Row 4, Cell 1</td>
+            <td>Row 4, Cell 2</td>
+            <td>Row 4, Cell 3</td>
+        </tr>
+        <tr>
+            <td>Row 5, Cell 1</td>
+            <td>Row 5, Cell 2</td>
+            <td>Row 5, Cell 3</td>
+        </tr>
+        <tr>
+            <td>Row 6, Cell 1</td>
+            <td>Row 6, Cell 2</td>
+            <td>Row 6, Cell 3</td>
+        </tr>
+    </table>
+</body>
+</html>
