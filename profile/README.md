@@ -2,7 +2,7 @@
 
 ### Team: Double Y (Yi Jie Wong, Yin Loon Khor)
 
-This competition embarks on this challenge by utilizing a building footprint dataset from the Tokyo area as the primary training set, with plans to extend testing to other Japanese regions. This approach aims to inspire the development of models with robust generalization capabilities, capable of overcoming the hurdles of automatic building footprint detection and extraction across various landscapes. Overcoming this challenge signifies the creation of a novel approach for efficient, cost-effective, and precise building footprint extraction at a national level with minimal regional data, showcasing its potential applicability worldwide.
+This [competition](https://www.kaggle.com/competitions/building-extraction-generalization-2024/overview) embarks on this challenge by utilizing a building footprint dataset from the Tokyo area as the primary training set, with plans to extend testing to other Japanese regions. This approach aims to inspire the development of models with robust generalization capabilities, capable of overcoming the hurdles of automatic building footprint detection and extraction across various landscapes. Overcoming this challenge signifies the creation of a novel approach for efficient, cost-effective, and precise building footprint extraction at a national level with minimal regional data, showcasing its potential applicability worldwide.
 
 ## Our Solution
 
