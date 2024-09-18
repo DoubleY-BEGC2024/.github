@@ -10,6 +10,7 @@ This [competition](https://www.kaggle.com/competitions/building-extraction-gener
 - We leveraged open-source Microsoft Building Footprint Dataset to expand the diversity of the training dataset.
 - To improve the label-efficiency, we proposed using segmentation-guided diffusion as our diffusion augmentation pipeline to create synthetic dataset for the YOLOv8 training, without relying extra dataset.
 - Our solution ranked 1st out of all participating teams! 🏅
+- Feel free to check our technical report [here](https://doubley-begc2024.github.io/)
 
 ## Top 5 Standings
 <!DOCTYPE html>
