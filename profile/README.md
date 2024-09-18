@@ -19,14 +19,14 @@ The goal of the [challenge](https://challenge.ey.com/challenges/tropical-cyclone
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>6x3 Table</title>
+    <title>Final Standings</title>
 </head>
 <body>
     <table border="1">
         <tr>
             <th>Rank #</th>
             <th>Team</th>
-            <th>Private Score</th>
+            <th>Private F1 Score</th>
         </tr>
         <tr>
             <td>1</td>
@@ -35,23 +35,23 @@ The goal of the [challenge](https://challenge.ey.com/challenges/tropical-cyclone
         </tr>
         <tr>
             <td>2</td>
-            <td>Row 2, Cell 2</td>
-            <td>Row 2, Cell 3</td>
+            <td>BDASL</td>
+            <td>0.68453</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>Row 3, Cell 2</td>
-            <td>Row 3, Cell 3</td>
+            <td>Big Ben</td>
+            <td>0.60649</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>Row 4, Cell 2</td>
-            <td>Row 4, Cell 3</td>
+            <td>Edge 1234</td>
+            <td>0.58565</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>Row 5, Cell 2</td>
-            <td>Row 5, Cell 3</td>
+            <td>The Curio Cat</td>
+            <td>0.51963</td>
         </tr>
     </table>
 </body>
