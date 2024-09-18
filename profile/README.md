@@ -2,11 +2,7 @@
 
 ### Team: Double Y (Yi Jie Wong, Yin Loon Khor)
 
-The goal of the [challenge](https://challenge.ey.com/challenges/tropical-cyclone-damage-assessment-lrrno2xm) is to develop a machine learning model to identify and detect “damaged” and “un-damaged” coastal infrastructure (residential and commercial buildings), which have been impacted by natural calamities such as hurricanes, cyclones, etc. Participants will be given pre- and post-cyclone satellite images of a site impacted by Hurricane Maria in 2017 and build a machine learning model, designed to detect four different objects in a satellite image of a cyclone impacted area:
-1. Undamaged residential building
-2. Damaged residential building
-3. Undamaged commercial building
-4. Damaged commercial building
+This competition embarks on this challenge by utilizing a building footprint dataset from the Tokyo area as the primary training set, with plans to extend testing to other Japanese regions. This approach aims to inspire the development of models with robust generalization capabilities, capable of overcoming the hurdles of automatic building footprint detection and extraction across various landscapes. Overcoming this challenge signifies the creation of a novel approach for efficient, cost-effective, and precise building footprint extraction at a national level with minimal regional data, showcasing its potential applicability worldwide.
 
 ## Our Solution
 
