@@ -30,8 +30,8 @@ The goal of the [challenge](https://challenge.ey.com/challenges/tropical-cyclone
         </tr>
         <tr>
             <td>1</td>
-            <td>Row 1, Cell 2</td>
-            <td>Row 1, Cell 3</td>
+            <td>DoubleY (our Team)</td>
+            <td>0.89711</td>
         </tr>
         <tr>
             <td>2</td>
