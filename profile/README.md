@@ -19,7 +19,7 @@ The goal of the [challenge](https://challenge.ey.com/challenges/tropical-cyclone
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Final Standings</title>
+    Final Standings
 </head>
 <body>
     <table border="1">
