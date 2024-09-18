@@ -6,9 +6,10 @@ This competition embarks on this challenge by utilizing a building footprint dat
 
 ## Our Solution
 
-- We are among the Top 10 Global Semi-Finalist of **EY Open Science Data Challenge 2024** 🎉🥳 </br>
-- We ranked 8th globally out of a total of 11,000 registrants 🌍🏆 </br>
-- We ranked 1st out of all participating teams! 🏅
+- We proposed using customized YOLOv8m-seg instance segmentation model for the task.
+- We leveraged open-source Microsoft Building Footprint Dataset to expand the diversity of the training dataset.
+- To improve the label-efficiency, we proposed using segmentation-guided diffusion as our diffusion augmentation pipeline to create synthetic dataset for the YOLOv8 training, without relying extra dataset.
+- Our solution ranked 1st out of all participating teams! 🏅
 
 <!DOCTYPE html>
 <html lang="en">
